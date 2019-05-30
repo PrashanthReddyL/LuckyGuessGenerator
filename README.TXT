@@ -5,7 +5,7 @@ all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
 PROJECT TITLE:Lucky Vending Machine
-PURPOSE OF PROJECT: Assignment
+
 VERSION or DATE: 07/09/2017
 HOW TO START THIS PROJECT: By calling the startGame() method of Game class
 AUTHORS: Prashanth Kumar Reddy Lenkala
