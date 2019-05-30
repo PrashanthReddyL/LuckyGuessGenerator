@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LuckyGuessGenerator()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ LuckyGuessGenerator\r\n
+comment1.params=
+comment1.target=void\ generateRandomNumber()
+comment1.text=\r\n\ This\ method\ generates\ a\ new\ number\ between\ 1\ and\ 5\ (inclusive)\ and\ stores\ it.\r\n\ \r\n\ The\ Math.random()\ method\ is\ used\ to\ generate\ a\ random\ double\ \r\n\ between\ 0.0\ and\ less\ than\ 1.0.\ It\ is\ then\ multiplied\ by\ 5\ and\ \r\n\ results\ an\ integer\ between\ 0\ and\ 4.\ \r\n\ Then\ it\ is\ added\ to\ 1\ to\ generate\ a\ number\ between\ 1\ and\ 5.\r\n
+comment2.params=
+comment2.target=int\ getRandomNumber()
+comment2.text=\r\n\ Accessor\ method\ for\ randomNumber\ variable.\r\n
+comment3.params=newNumber
+comment3.target=void\ setRandomNumber(int)
+comment3.text=\r\n\ Mutator\ method\ for\ randomNumber\ variable.\r\n
+numComments=4
