@@ -4,7 +4,7 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE: Assignment 1 - Lucky Vending Machine
+PROJECT TITLE:Lucky Vending Machine
 PURPOSE OF PROJECT: Assignment
 VERSION or DATE: 07/09/2017
 HOW TO START THIS PROJECT: By calling the startGame() method of Game class
