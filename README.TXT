@@ -8,7 +8,7 @@ PROJECT TITLE:Lucky Vending Machine
 
 VERSION or DATE: 07/09/2017
 HOW TO START THIS PROJECT: By calling the startGame() method of Game class
-AUTHORS: Prashanth Kumar Reddy Lenkala
+AUTHORS: Prashanth
 
 USER INSTRUCTIONS:
 1) Create an object of the Game class and run the startGame() method.
